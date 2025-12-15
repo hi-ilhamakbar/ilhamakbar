@@ -1,0 +1,10 @@
+{
+  "slug": "welcome",
+  "title": "Welcome to My Blog",
+  "date": "2025-11-07",
+  "author": "Ilham Akbar",
+  "summary": "Notes on QA automation, CI/CD, and testing strategies.",
+  "cover_image": "",
+  "attachments": [],
+  "content": "<p>Hello! This is where I share pragmatic insights about building reliable automation.</p>"
+}
